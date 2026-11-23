@@ -1,8 +1,8 @@
-# makefun-gta6-meme
+# makefun-meme-sprint
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
-[![rank](https://make.fun/badge/gta6-meme-x-01/khoirulr3331/makefun-gta6-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
-[![reward](https://make.fun/badge/gta6-meme-x-01/khoirulr3331/makefun-gta6-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/khoirulr3331/makefun-meme-sprint/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/khoirulr3331/makefun-meme-sprint/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 One meme about GTA 6, made by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty: a fan who waited 13 years since GTA V finally calls in sick on launch day, while the make.fun ghost sits on his bed with its magenta star coin — and his AI agent already earned real money on make.fun while he waited.
 
